@@ -12,8 +12,7 @@ import java.util.Collections;
 
 public class CustomUserDetails implements UserDetails {
 
-    //Object of spring class demo application model not any other
-//    private User user;
+
 
     private User user;
 
